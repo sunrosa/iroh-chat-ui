@@ -3335,7 +3335,9 @@ version = "0.1.0"
 dependencies = [
  "anyhow",
  "dioxus",
+ "iroh",
  "iroh_chat",
+ "serde_json",
  "tokio",
 ]
 
